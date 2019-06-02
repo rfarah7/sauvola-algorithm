@@ -1,0 +1,1 @@
+imshow(sauvola_function('Coursework_Images_18_19/test_images/PR7.png'));
